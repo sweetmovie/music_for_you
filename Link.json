@@ -1,17 +1,17 @@
 {
     "1": {
         "url": "https://google.com",
-        "code": 200,
-        "value": 1000
+        "server": "Telegram",
+        "mb": "1.5Gb"
     },
     "2": {
         "url": "https://facebook.com",
-        "code": 404,
-        "value": 500
+        "server": "Google Drive",
+        "mb": "2Gb"
     },
     "39": {
         "url": "https://example.com",
-        "code": 500,
-        "value": 300
+        "server": "Direct",
+        "mb": "1Gb"
     }
 }
