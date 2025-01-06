@@ -1,8 +1,17 @@
 {
-    "entries": [
-        { "button": "buttonA", "url": "https://exampleA.com" },
-        { "button": "buttonB", "url": "https://exampleB.com" },
-        { "button": "buttonC", "url": "https://exampleC.com" },
-        { "button": "buttonD", "url": "https://exampleD.com" }
-    ]
+    "1": {
+        "url": "https://google.com",
+        "code": 200,
+        "value": 1000
+    },
+    "2": {
+        "url": "https://facebook.com",
+        "code": 404,
+        "value": 500
+    },
+    "3": {
+        "url": "https://example.com",
+        "code": 500,
+        "value": 300
+    }
 }
