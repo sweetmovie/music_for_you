@@ -1,0 +1,8 @@
+{
+    "entries": [
+        { "button": "buttonA", "url": "https://exampleA.com" },
+        { "button": "buttonB", "url": "https://exampleB.com" },
+        { "button": "buttonC", "url": "https://exampleC.com" },
+        { "button": "buttonD", "url": "https://exampleD.com" }
+    ]
+}
